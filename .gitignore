@@ -1,0 +1,15 @@
+scripts/.DS_Store
+scripts/cli/.DS_Store
+scripts/cli/CHOpt
+scripts/cli/fnf_chopt
+scripts/cli/libpng16.16.dylib
+scripts/download.py
+scripts/fnf.py
+scripts/fnfp copy.js
+scripts/fnfp.js
+scripts/fnfp_with_title_artist.js
+scripts/merge.py
+scripts/run_script.sh
+scripts/TestXbox.json
+scripts/scan.py
+scripts/title.py
