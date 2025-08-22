@@ -13,3 +13,10 @@ scripts/run_script.sh
 scripts/TestXbox.json
 scripts/scan.py
 scripts/title.py
+scripts/songs.dta
+scripts/rbpaths.js
+scripts/missing_id.py
+scripts/fuzzy.py
+scripts/fnfp_with_title_artist_fuzzy_with_songinfo.js
+scripts/fnfp_shortnames.js
+scripts/fnfp_shortnames copy.js
