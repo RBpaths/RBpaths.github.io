@@ -54,7 +54,7 @@ h1 {
     width: 96%; /* Increased from 80% to 96% for 20% wider */
     max-width: 480px; /* Increased from 400px to 480px */
     padding: 12px 15px; /* Increased padding */
-    font-size: 27px; /* Increased from 18px */
+    font-size: 19px; /* Increased from 18px */
     border: 1px solid #0043a0; /* Purple border color */
     border-radius: 20px;
     background-color: #343a40; /* Dark purple input background */
@@ -95,7 +95,7 @@ h1 {
 .suggestions div {
     padding: 15px 20px; /* Increased padding for more space */
     cursor: pointer;
-    font-size: 23px; /* Increased from 18px */
+    font-size: 20px; /* Increased from 18px */
     transition: background-color 0.2s ease, color 0.2s ease;
     border-bottom: 1px solid #444; /* Optional: separates each item */
 }
