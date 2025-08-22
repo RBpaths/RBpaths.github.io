@@ -1103,11 +1103,11 @@ const songs = [
                 gpath: "1(+1)/1st GB, 2/2nd R, 1/4th GY, 2/3rd RO, 1/4th GY",
                 gscore: "249357",
                 g_gs: " 213775",
-                g_image: "'?de_que_guitar.png'",
+                g_image: "'de_que_guitar.png'",
                 bpath: "1(+1)/5th O, 1(+1)/5th O, 1(+1)/2nd Y, 1/1st B, 3/10th G",
                 bscore: "109041",
                 b_gs: " 90724",
-                b_image: "'?de_que_bass.png'"
+                b_image: "'de_que_bass.png'"
             }
         },
         {
